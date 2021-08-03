@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dltech
-- 👀 I’m interested in everything is possible on cortex-m arcitecture
+- 👀 I’m interested in everything is possible on cortex-m architecture
 - 🌱 I’m currently learning STM32 USB OTG FS lib
 - 📫 How to reach me dltech174@gmail.com
 
