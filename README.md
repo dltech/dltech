@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @dltech
-- 👀 I’m interested in everything is possible on cortex-m architecture
-- 🌱 I’m currently learning STM32 USB OTG FS lib
-- My blog is https://dltecc.blogspot.com/
-- 📫 How to reach me dltech174@gmail.com
+I migrated to gitlab: https://gitlab.com/dltech
 
 <!---
 dltech/dltech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
